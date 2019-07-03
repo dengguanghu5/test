@@ -1,0 +1,30 @@
+.ihead span:first-child{
+    font-size:35px;
+    font-weight: bold;
+}
+.ihead span:nth-child(2){
+    font-size:20px;
+    font-weight: bold;
+}
+.ibody{
+    margin-top: 20px;
+    padding-left: 8px;
+    padding-right: 4px;
+    line-height: 34px;
+}
+.ibody div{
+    border-bottom: 1px dashed #919199;
+}
+.ibody div span:first-child{
+
+}
+.ibody div span:nth-child(2){
+    color: #00f;
+    margin-left: 8px;
+}
+.ibody div.empty{
+    height:5px;
+}
+.blue{ color: #00f; }
+.red{ color: #e60c03!important; }
+.green{ color: #277e2d!important; }
